@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/MyCode/data_Structure/experiment6/BinaryTree.h
+iostream
+D:/MyCode/data_Structure/experiment6/iostream
+queue
+-
+
+D:/MyCode/data_Structure/experiment6/main.cpp
+BinaryTree.h
+D:/MyCode/data_Structure/experiment6/BinaryTree.h
+
